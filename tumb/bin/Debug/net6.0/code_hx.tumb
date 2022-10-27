@@ -1,0 +1,26 @@
+rpoke 48,0
+rpoke 65,1
+rpoke 6c,2
+rpoke 6f,3
+rpoke 2c,4
+rpoke 20,5
+rpoke 57,6
+rpoke 72,7
+rpoke 64,8
+rpoke 21,9
+
+contr 0,0
+contr 1,0
+contr 2,0
+contr 2,0
+contr 3,0
+contr 4,0
+
+contr 5,0
+
+contr 6,0
+contr 3,0
+contr 7,0
+contr 2,0
+contr 8,0
+contr 9,1

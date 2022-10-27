@@ -1,0 +1,12 @@
+C:\Users\Think\Desktop\Matto\tumb\tumbi\bin\Debug\net6.0\tumbi.deps.json
+C:\Users\Think\Desktop\Matto\tumb\tumbi\bin\Debug\net6.0\tumbi.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbi\bin\Debug\net6.0\tumbi.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.csproj.AssemblyReference.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.AssemblyInfoInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.AssemblyInfo.cs
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\refint\tumbi.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\tumbi.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumbi\obj\Debug\net6.0\ref\tumbi.dll

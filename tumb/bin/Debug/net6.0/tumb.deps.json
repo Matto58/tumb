@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tumb/1.0.0": {
+        "dependencies": {
+          "tumba": "1.0.0",
+          "tumbi": "1.0.0",
+          "tumbl": "1.0.0",
+          "tumbr": "1.0.0"
+        },
+        "runtime": {
+          "tumb.dll": {}
+        }
+      },
+      "tumba/1.0.0": {
+        "runtime": {
+          "tumba.dll": {}
+        }
+      },
+      "tumbi/1.0.0": {
+        "runtime": {
+          "tumbi.dll": {}
+        }
+      },
+      "tumbl/1.0.0": {
+        "runtime": {
+          "tumbl.dll": {}
+        }
+      },
+      "tumbr/1.0.0": {
+        "dependencies": {
+          "tumba": "1.0.0"
+        },
+        "runtime": {
+          "tumbr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tumb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tumba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tumbi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tumbl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tumbr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
