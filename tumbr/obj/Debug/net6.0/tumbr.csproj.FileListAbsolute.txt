@@ -1,0 +1,15 @@
+C:\Users\Think\Desktop\Matto\tumb\tumbr\bin\Debug\net6.0\tumbr.deps.json
+C:\Users\Think\Desktop\Matto\tumb\tumbr\bin\Debug\net6.0\tumbr.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbr\bin\Debug\net6.0\tumbr.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.csproj.AssemblyReference.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.AssemblyInfoInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.AssemblyInfo.cs
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\refint\tumbr.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\ref\tumbr.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbr\bin\Debug\net6.0\tumba.dll
+C:\Users\Think\Desktop\Matto\tumb\tumbr\bin\Debug\net6.0\tumba.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumbr\obj\Debug\net6.0\tumbr.csproj.CopyComplete

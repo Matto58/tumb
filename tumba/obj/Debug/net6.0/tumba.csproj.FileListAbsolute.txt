@@ -1,0 +1,12 @@
+C:\Users\Think\Desktop\Matto\tumb\tumba\bin\Debug\net6.0\tumba.deps.json
+C:\Users\Think\Desktop\Matto\tumb\tumba\bin\Debug\net6.0\tumba.dll
+C:\Users\Think\Desktop\Matto\tumb\tumba\bin\Debug\net6.0\tumba.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.csproj.AssemblyReference.cache
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.AssemblyInfoInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.AssemblyInfo.cs
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.dll
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\refint\tumba.dll
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\tumba.pdb
+C:\Users\Think\Desktop\Matto\tumb\tumba\obj\Debug\net6.0\ref\tumba.dll
